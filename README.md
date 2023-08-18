@@ -24,6 +24,14 @@ Linear regression is a cornerstone of predictive modeling. In this repository, w
    ```bash
    jupyter notebook
 
+## Intuitions 🧠
+
+Build deep intuitions as you:
+
+- Grasp how the model's w and b affect the line's slope and position.
+- Explore the connection between data visualization and model accuracy.
+- Get hands-on with predictions and understand how they're derived.
+
 ## Contributing 🤝
 
 We encourage contributions! If you have enhancements or additional examples to share, open an issue or submit a pull request.
